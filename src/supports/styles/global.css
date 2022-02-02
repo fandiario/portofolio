@@ -1,0 +1,155 @@
+.dropdown-toggle::after{
+    display: none;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(2, 2, 2, 2);
+}
+
+/* margin */
+/* horizontal */
+.mx-10 {
+    margin: 0rem 2.5rem 0rem 2.5rem !important;
+}
+
+.mx-11 {
+    margin: 0rem 2.75rem 0rem 2.75rem !important;
+}
+
+.mx-12 {
+    margin: 0rem 3rem 0rem 3rem !important;
+}
+
+.mx-13 {
+    margin: 0rem 3.25rem 0rem 3.25rem !important;
+}
+
+.mx-14 {
+    margin: 0rem 3.5rem 0rem 3.5rem !important;
+}
+
+.mx-15 {
+    margin: 0rem 3.75rem 0rem 3.75rem !important;
+}
+
+.my-20 {
+    margin: 0rem 5rem 5rem 0rem !important; 
+}
+
+/* vertical */
+.my-10 {
+    margin: 2.5rem 0rem 2.5rem 0rem !important;
+}
+
+.my-11 {
+    margin: 2.75rem 0rem 2.75rem 0rem !important;
+}
+
+.my-12 {
+    margin: 3rem 0rem 3rem 0rem !important;
+}
+
+.my-13 {
+    margin: 3.25rem 0rem 3.25rem 0rem !important;
+}
+
+.my-14 {
+    margin: 3.5rem 0rem 3.5rem 0rem !important;
+}
+
+.my-15 {
+    margin: 3.75rem 0rem 3.75rem 0rem !important;
+}
+
+.my-20 {
+    margin: 5rem 0rem 5rem 0rem !important; 
+}
+
+.my-25 {
+    margin: 6.25rem 0rem 6.25rem 0rem !important; 
+}
+
+.mt-n6 {
+    margin-top: -1.5rem !important;
+}
+
+.mt-n7 {
+    margin-top: -1.75rem !important;
+}
+
+.mt-n8 {
+    margin-top: -2rem !important;
+}
+
+.mt-n9 {
+    margin-top: -2.25rem !important;
+}
+
+.mt-n10 {
+    margin-top: -2.5rem !important;
+}
+
+.mt-n11 {
+    margin-top: -2.75rem !important;
+}
+
+.mt-n12 {
+    margin-top: -3rem !important;
+}
+
+.mt-n13 {
+    margin-top: -3.25rem !important;
+}
+
+.mt-n14 {
+    margin-top: -3.5rem !important;
+}
+
+.mt-n15 {
+    margin-top: -3.75rem !important;
+}
+
+/* border */
+.border-bold-white {
+    border: 3px solid white !important; 
+}
+
+.border-bold-black {
+    border: 3px solid black !important; 
+}
+
+.border-bolder-black {
+    border: 5px solid black !important; 
+}
+
+.border-projects {
+    border: 1px solid white;
+}
+
+.border-projects :hover {
+    box-shadow: 10px 10px 8px #888888;
+}
+
+/* profile picture */
+.profile-style {
+    height: 120px;
+    width: 120px;
+}
+
+.carousel-image-size {
+    height: 150px;
+    width: auto;
+    object-fit: contain;
+}
+
+/* pointer */
+.clickable-element{
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
